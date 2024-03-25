@@ -1,0 +1,27 @@
+.main{
+    margin: 150px 250px;
+    border-style: solid ;
+    border-color: black; 
+    text-align: justify;
+    padding: 50px;   
+}
+
+.right{
+    text-align: right;
+}
+
+hr{
+    border-style: solid;
+    border-color: black;
+}
+
+h2{
+    text-align: center
+}
+
+.list{
+    padding: 10px 50px 10px 50px;
+}
+
+
+
